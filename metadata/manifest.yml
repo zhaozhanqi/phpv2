@@ -11,7 +11,7 @@ Cartridge-Vendor:  zzhao
 Categories:
   
   - php
-
+  - web_framework
 Website: http://www.php.net
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
