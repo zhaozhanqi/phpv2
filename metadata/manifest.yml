@@ -9,9 +9,9 @@ Vendor: php.net
 Cartridge-Version: 0.0.1
 Cartridge-Vendor:  zzhao
 Categories:
-  
+  - service
   - php
-  - web_framework
+  
 Website: http://www.php.net
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
